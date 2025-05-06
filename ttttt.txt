@@ -1,0 +1,7 @@
+123,mingo,morila,micasa,3000.0,45
+69,Cristoputero,tavio,rapada,0.0,0
+9999,Daniel4,bbbbbb,ir;anda,1.0E7,56
+A11111111,Eva,González Pérez,Madrid,850000.0,20
+A11111112,Ramón,Benito Díaz,Sevilla,1.5E7,123
+A22222222,Carlos,March,Madrid,1.2E7,1500
+B33333333,Sara,Varas,Sevilla,1500000.0,345
